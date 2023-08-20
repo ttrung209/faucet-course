@@ -1,4 +1,6 @@
 // SPDX-License-Identifier: MIT
+// Noted in document: https://tinyurl.com/3ernaf29
+
 pragma solidity >0.7.0;
 
 contract firstcontract{
